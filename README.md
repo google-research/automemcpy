@@ -2,7 +2,7 @@
 
 ---
 
-Website accompagnying the `automemcpy` paper from Chatelet et al. (https://doi.org/10.1145/3459898.3463904).
+Website accompanying the `automemcpy` paper from Chatelet et al. (https://doi.org/10.1145/3459898.3463904).
 
 # Code
 
